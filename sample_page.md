@@ -1,6 +1,7 @@
 ## Meal Planning Application with other Engineering Students
 
 **Project description:** A group of 5 girls and I are creating a meal planning application for android. Once we release it for Android, we will work to get our app available on IOS. 
+The repository can be found [here](https://github.com/jennyli1299/GuacOn.git)
 
 ### 1. Our Storyboard
 
