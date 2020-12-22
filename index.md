@@ -9,20 +9,20 @@
 "/>
 
 ---
-[STEM Bar](https://stembar.yolasite.com/)
-<img src="images/LPb7D0-G_400x400.jpg"/>
+[GuacOn - Meal Planning Application](https://stembar.yolasite.com/)
+<img src="images/"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[CSCI 104: Data Structures and OOP](https://bytes.usc.edu/cs104/)
 <img src="images/Storyboard.pdf"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Director of The Crucible](http://example.com/)
+- [STEM Bar Founder](http://example.com/)
+- [Project Impact Designer](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
