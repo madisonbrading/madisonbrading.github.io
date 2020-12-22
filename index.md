@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Director of The Crucible](The Crucible.md)
+- [Director of The Crucible](The_Crucible.md)
 - [STEM Bar Founder](https://stembar.yolasite.com/)
 - [Project Impact Team](https://projectimpact.world/groups/)
 - [Project 4 Title](http://example.com/)
