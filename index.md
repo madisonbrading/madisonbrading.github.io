@@ -28,7 +28,7 @@
 
 ---
 - [Project Impact Website](https://projectimpact.world/groups/)
-<img src="images/Wireframe of website (dragged).pdf"/>
+<img src="images/PI Wireframe.png"/>
 
 ---
 
