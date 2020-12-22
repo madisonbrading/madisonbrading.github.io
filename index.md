@@ -8,7 +8,7 @@
 <img src="Screen Shot 2020-12-22 at 3.30.48 PM.png"/>
 
 ---
-[GuacOn - Meal Planning Application](https://stembar.yolasite.com/)
+[GuacOn - Meal Planning Application](sample_page.md)
 <img src="images/Screen Shot 2020-12-22 at 3.16.57 PM.png"/>
 
 ---
@@ -20,8 +20,8 @@
 ### Category Name 2
 
 - [Director of The Crucible](The Crucible.md)
-- [STEM Bar Founder](http://example.com/)
-- [Project Impact Designer](http://example.com/)
+- [STEM Bar Founder](https://stembar.yolasite.com/)
+- [Project Impact Team](https://projectimpact.world/groups/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
