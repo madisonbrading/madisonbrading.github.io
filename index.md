@@ -10,7 +10,7 @@
 
 ---
 [GuacOn - Meal Planning Application](https://stembar.yolasite.com/)
-<img src="images/"/>
+<img src="images/Screen Shot 2020-12-22 at 3.16.57 PM.png"/>
 
 ---
 [CSCI 104: Data Structures and OOP](https://bytes.usc.edu/cs104/)
