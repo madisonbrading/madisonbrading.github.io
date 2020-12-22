@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Scrabble Game](/https://bytes.usc.edu/cs104/homework/hw5/)
+<img src="images/Screen Shot 2020-12-22 at 2.01.28 PM.png
+"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
