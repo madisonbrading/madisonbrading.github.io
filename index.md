@@ -5,8 +5,7 @@
 ### Category Name 1 
 
 [Scrabble Game](https://bytes.usc.edu/cs104/homework/hw5/)
-<img src="images/Screen Shot 2020-12-22 at 2.01.28 PM.png
-"/>
+<img src="Screen Shot 2020-12-22 at 3.30.48 PM.png"/>
 
 ---
 [GuacOn - Meal Planning Application](https://stembar.yolasite.com/)
