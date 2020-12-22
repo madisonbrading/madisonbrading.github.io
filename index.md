@@ -9,8 +9,8 @@
 "/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[STEM Bar](https://stembar.yolasite.com/)
+<img src="images/LPb7D0-G_400x400.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
